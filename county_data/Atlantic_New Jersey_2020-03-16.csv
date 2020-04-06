@@ -1,0 +1,18 @@
+date,county,state,confirmed cases,deaths,new cases per day,new deaths per day
+2020-03-18,Atlantic,New Jersey,3,0,0,0
+2020-03-19,Atlantic,New Jersey,3,0,0,0
+2020-03-20,Atlantic,New Jersey,3,0,0,0
+2020-03-21,Atlantic,New Jersey,4,0,1,0
+2020-03-22,Atlantic,New Jersey,5,0,1,0
+2020-03-23,Atlantic,New Jersey,6,0,1,0
+2020-03-24,Atlantic,New Jersey,6,0,0,0
+2020-03-25,Atlantic,New Jersey,9,0,3,0
+2020-03-26,Atlantic,New Jersey,10,0,1,0
+2020-03-27,Atlantic,New Jersey,14,0,4,0
+2020-03-28,Atlantic,New Jersey,17,0,3,0
+2020-03-29,Atlantic,New Jersey,24,0,7,0
+2020-03-30,Atlantic,New Jersey,30,0,6,0
+2020-03-31,Atlantic,New Jersey,31,0,1,0
+2020-04-01,Atlantic,New Jersey,40,0,9,0
+2020-04-02,Atlantic,New Jersey,50,1,10,1
+2020-04-03,Atlantic,New Jersey,75,1,25,0

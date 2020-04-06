@@ -1,0 +1,27 @@
+date,county,state,confirmed cases,deaths,new cases per day,new deaths per day
+2020-03-09,Union,New Jersey,1,0,0,0
+2020-03-10,Union,New Jersey,1,0,0,0
+2020-03-11,Union,New Jersey,1,0,0,0
+2020-03-12,Union,New Jersey,1,0,0,0
+2020-03-13,Union,New Jersey,1,0,0,0
+2020-03-14,Union,New Jersey,1,0,0,0
+2020-03-15,Union,New Jersey,4,0,3,0
+2020-03-16,Union,New Jersey,8,0,4,0
+2020-03-17,Union,New Jersey,22,0,14,0
+2020-03-18,Union,New Jersey,26,0,4,0
+2020-03-19,Union,New Jersey,29,0,3,0
+2020-03-20,Union,New Jersey,43,0,14,0
+2020-03-21,Union,New Jersey,81,0,38,0
+2020-03-22,Union,New Jersey,124,0,43,0
+2020-03-23,Union,New Jersey,189,1,65,1
+2020-03-24,Union,New Jersey,246,2,57,1
+2020-03-25,Union,New Jersey,262,3,16,1
+2020-03-26,Union,New Jersey,432,3,170,0
+2020-03-27,Union,New Jersey,519,3,87,0
+2020-03-28,Union,New Jersey,742,10,223,7
+2020-03-29,Union,New Jersey,896,10,154,0
+2020-03-30,Union,New Jersey,1213,15,317,5
+2020-03-31,Union,New Jersey,1418,24,205,9
+2020-04-01,Union,New Jersey,1661,29,243,5
+2020-04-02,Union,New Jersey,2010,34,349,5
+2020-04-03,Union,New Jersey,2487,45,477,11

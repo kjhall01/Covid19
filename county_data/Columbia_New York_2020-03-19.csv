@@ -1,0 +1,16 @@
+date,county,state,confirmed cases,deaths,new cases per day,new deaths per day
+2020-03-20,Columbia,New York,1,0,0,0
+2020-03-21,Columbia,New York,2,0,1,0
+2020-03-22,Columbia,New York,5,0,3,0
+2020-03-23,Columbia,New York,10,0,5,0
+2020-03-24,Columbia,New York,11,0,1,0
+2020-03-25,Columbia,New York,12,0,1,0
+2020-03-26,Columbia,New York,13,0,1,0
+2020-03-27,Columbia,New York,20,0,7,0
+2020-03-28,Columbia,New York,22,0,2,0
+2020-03-29,Columbia,New York,23,1,1,1
+2020-03-30,Columbia,New York,26,1,3,0
+2020-03-31,Columbia,New York,36,1,10,0
+2020-04-01,Columbia,New York,41,1,5,0
+2020-04-02,Columbia,New York,41,2,0,1
+2020-04-03,Columbia,New York,41,2,0,0

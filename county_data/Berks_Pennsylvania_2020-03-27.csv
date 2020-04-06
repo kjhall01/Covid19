@@ -1,0 +1,18 @@
+date,county,state,confirmed cases,deaths,new cases per day,new deaths per day
+2020-03-18,Berks,Pennsylvania,1,0,0,0
+2020-03-19,Berks,Pennsylvania,1,0,0,0
+2020-03-20,Berks,Pennsylvania,5,0,4,0
+2020-03-21,Berks,Pennsylvania,7,0,2,0
+2020-03-22,Berks,Pennsylvania,13,0,6,0
+2020-03-23,Berks,Pennsylvania,14,0,1,0
+2020-03-24,Berks,Pennsylvania,16,0,2,0
+2020-03-25,Berks,Pennsylvania,20,0,4,0
+2020-03-26,Berks,Pennsylvania,36,0,16,0
+2020-03-27,Berks,Pennsylvania,65,0,29,0
+2020-03-28,Berks,Pennsylvania,65,0,0,0
+2020-03-29,Berks,Pennsylvania,68,0,3,0
+2020-03-30,Berks,Pennsylvania,82,0,14,0
+2020-03-31,Berks,Pennsylvania,110,0,28,0
+2020-04-01,Berks,Pennsylvania,151,0,41,0
+2020-04-02,Berks,Pennsylvania,168,1,17,1
+2020-04-03,Berks,Pennsylvania,201,1,33,0

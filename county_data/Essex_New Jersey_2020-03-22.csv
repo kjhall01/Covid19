@@ -1,0 +1,24 @@
+date,county,state,confirmed cases,deaths,new cases per day,new deaths per day
+2020-03-12,Essex,New Jersey,1,0,0,0
+2020-03-13,Essex,New Jersey,6,0,5,0
+2020-03-14,Essex,New Jersey,7,0,1,0
+2020-03-15,Essex,New Jersey,11,0,4,0
+2020-03-16,Essex,New Jersey,20,0,9,0
+2020-03-17,Essex,New Jersey,32,0,12,0
+2020-03-18,Essex,New Jersey,45,0,13,0
+2020-03-19,Essex,New Jersey,63,2,18,2
+2020-03-20,Essex,New Jersey,73,3,10,1
+2020-03-21,Essex,New Jersey,107,4,34,1
+2020-03-22,Essex,New Jersey,172,4,65,0
+2020-03-23,Essex,New Jersey,273,5,101,1
+2020-03-24,Essex,New Jersey,342,8,69,3
+2020-03-25,Essex,New Jersey,381,11,39,3
+2020-03-26,Essex,New Jersey,609,15,228,4
+2020-03-27,Essex,New Jersey,826,18,217,3
+2020-03-28,Essex,New Jersey,1086,20,260,2
+2020-03-29,Essex,New Jersey,1227,20,141,0
+2020-03-30,Essex,New Jersey,1564,36,337,16
+2020-03-31,Essex,New Jersey,1900,47,336,11
+2020-04-01,Essex,New Jersey,2262,69,362,22
+2020-04-02,Essex,New Jersey,2617,99,355,30
+2020-04-03,Essex,New Jersey,3067,118,450,19

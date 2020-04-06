@@ -1,0 +1,14 @@
+date,county,state,confirmed cases,deaths,new cases per day,new deaths per day
+2020-03-22,Salem,New Jersey,1,0,0,0
+2020-03-23,Salem,New Jersey,1,0,0,0
+2020-03-24,Salem,New Jersey,1,0,0,0
+2020-03-25,Salem,New Jersey,1,0,0,0
+2020-03-26,Salem,New Jersey,2,0,1,0
+2020-03-27,Salem,New Jersey,3,0,1,0
+2020-03-28,Salem,New Jersey,3,0,0,0
+2020-03-29,Salem,New Jersey,3,0,0,0
+2020-03-30,Salem,New Jersey,3,0,0,0
+2020-03-31,Salem,New Jersey,12,1,9,1
+2020-04-01,Salem,New Jersey,19,1,7,0
+2020-04-02,Salem,New Jersey,20,1,1,0
+2020-04-03,Salem,New Jersey,25,2,5,1

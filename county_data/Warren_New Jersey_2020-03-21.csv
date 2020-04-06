@@ -1,0 +1,19 @@
+date,county,state,confirmed cases,deaths,new cases per day,new deaths per day
+2020-03-17,Warren,New Jersey,1,0,0,0
+2020-03-18,Warren,New Jersey,2,0,1,0
+2020-03-19,Warren,New Jersey,4,0,2,0
+2020-03-20,Warren,New Jersey,4,0,0,0
+2020-03-21,Warren,New Jersey,5,0,1,0
+2020-03-22,Warren,New Jersey,9,0,4,0
+2020-03-23,Warren,New Jersey,15,1,6,1
+2020-03-24,Warren,New Jersey,15,1,0,0
+2020-03-25,Warren,New Jersey,18,1,3,0
+2020-03-26,Warren,New Jersey,31,1,13,0
+2020-03-27,Warren,New Jersey,38,1,7,0
+2020-03-28,Warren,New Jersey,51,2,13,1
+2020-03-29,Warren,New Jersey,56,2,5,0
+2020-03-30,Warren,New Jersey,68,2,12,0
+2020-03-31,Warren,New Jersey,76,2,8,0
+2020-04-01,Warren,New Jersey,96,3,20,1
+2020-04-02,Warren,New Jersey,116,3,20,0
+2020-04-03,Warren,New Jersey,149,3,33,0

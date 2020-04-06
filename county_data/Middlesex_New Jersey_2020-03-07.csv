@@ -1,0 +1,25 @@
+date,county,state,confirmed cases,deaths,new cases per day,new deaths per day
+2020-03-11,Middlesex,New Jersey,2,0,0,0
+2020-03-12,Middlesex,New Jersey,2,0,0,0
+2020-03-13,Middlesex,New Jersey,4,0,2,0
+2020-03-14,Middlesex,New Jersey,8,0,4,0
+2020-03-15,Middlesex,New Jersey,9,0,1,0
+2020-03-16,Middlesex,New Jersey,15,0,6,0
+2020-03-17,Middlesex,New Jersey,20,0,5,0
+2020-03-18,Middlesex,New Jersey,40,0,20,0
+2020-03-19,Middlesex,New Jersey,64,0,24,0
+2020-03-20,Middlesex,New Jersey,76,0,12,0
+2020-03-21,Middlesex,New Jersey,116,0,40,0
+2020-03-22,Middlesex,New Jersey,147,1,31,1
+2020-03-23,Middlesex,New Jersey,210,1,63,0
+2020-03-24,Middlesex,New Jersey,277,1,67,0
+2020-03-25,Middlesex,New Jersey,316,2,39,1
+2020-03-26,Middlesex,New Jersey,505,5,189,3
+2020-03-27,Middlesex,New Jersey,640,9,135,4
+2020-03-28,Middlesex,New Jersey,808,14,168,5
+2020-03-29,Middlesex,New Jersey,938,14,130,0
+2020-03-30,Middlesex,New Jersey,1123,20,185,6
+2020-03-31,Middlesex,New Jersey,1277,24,154,4
+2020-04-01,Middlesex,New Jersey,1493,27,216,3
+2020-04-02,Middlesex,New Jersey,1766,48,273,21
+2020-04-03,Middlesex,New Jersey,2125,56,359,8

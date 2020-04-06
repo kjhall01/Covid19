@@ -1,0 +1,24 @@
+date,county,state,confirmed cases,deaths,new cases per day,new deaths per day
+2020-03-12,Litchfield,Connecticut,1,0,0,0
+2020-03-13,Litchfield,Connecticut,3,0,2,0
+2020-03-14,Litchfield,Connecticut,3,0,0,0
+2020-03-15,Litchfield,Connecticut,4,0,1,0
+2020-03-16,Litchfield,Connecticut,4,0,0,0
+2020-03-17,Litchfield,Connecticut,5,0,1,0
+2020-03-18,Litchfield,Connecticut,5,0,0,0
+2020-03-19,Litchfield,Connecticut,7,0,2,0
+2020-03-20,Litchfield,Connecticut,8,0,1,0
+2020-03-21,Litchfield,Connecticut,11,0,3,0
+2020-03-22,Litchfield,Connecticut,12,0,1,0
+2020-03-23,Litchfield,Connecticut,13,0,1,0
+2020-03-24,Litchfield,Connecticut,22,0,9,0
+2020-03-25,Litchfield,Connecticut,33,0,11,0
+2020-03-26,Litchfield,Connecticut,44,0,11,0
+2020-03-27,Litchfield,Connecticut,52,0,8,0
+2020-03-28,Litchfield,Connecticut,65,0,13,0
+2020-03-29,Litchfield,Connecticut,87,0,22,0
+2020-03-30,Litchfield,Connecticut,113,1,26,1
+2020-03-31,Litchfield,Connecticut,121,1,8,0
+2020-04-01,Litchfield,Connecticut,131,1,10,0
+2020-04-02,Litchfield,Connecticut,141,2,10,1
+2020-04-03,Litchfield,Connecticut,173,4,32,2

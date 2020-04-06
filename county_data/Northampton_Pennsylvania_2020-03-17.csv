@@ -1,0 +1,24 @@
+date,county,state,confirmed cases,deaths,new cases per day,new deaths per day
+2020-03-12,Northampton,Pennsylvania,1,0,0,0
+2020-03-13,Northampton,Pennsylvania,1,0,0,0
+2020-03-14,Northampton,Pennsylvania,1,0,0,0
+2020-03-15,Northampton,Pennsylvania,1,0,0,0
+2020-03-16,Northampton,Pennsylvania,1,0,0,0
+2020-03-17,Northampton,Pennsylvania,1,0,0,0
+2020-03-18,Northampton,Pennsylvania,1,1,0,1
+2020-03-19,Northampton,Pennsylvania,5,1,4,0
+2020-03-20,Northampton,Pennsylvania,10,1,5,0
+2020-03-21,Northampton,Pennsylvania,17,1,7,0
+2020-03-22,Northampton,Pennsylvania,21,1,4,0
+2020-03-23,Northampton,Pennsylvania,23,1,2,0
+2020-03-24,Northampton,Pennsylvania,33,2,10,1
+2020-03-25,Northampton,Pennsylvania,44,3,11,1
+2020-03-26,Northampton,Pennsylvania,56,3,12,0
+2020-03-27,Northampton,Pennsylvania,79,3,23,0
+2020-03-28,Northampton,Pennsylvania,94,4,15,1
+2020-03-29,Northampton,Pennsylvania,126,4,32,0
+2020-03-30,Northampton,Pennsylvania,184,5,58,1
+2020-03-31,Northampton,Pennsylvania,245,5,61,0
+2020-04-01,Northampton,Pennsylvania,312,5,67,0
+2020-04-02,Northampton,Pennsylvania,378,9,66,4
+2020-04-03,Northampton,Pennsylvania,466,10,88,1

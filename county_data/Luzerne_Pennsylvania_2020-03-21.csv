@@ -1,0 +1,21 @@
+date,county,state,confirmed cases,deaths,new cases per day,new deaths per day
+2020-03-15,Luzerne,Pennsylvania,1,0,0,0
+2020-03-16,Luzerne,Pennsylvania,1,0,0,0
+2020-03-17,Luzerne,Pennsylvania,1,0,0,0
+2020-03-18,Luzerne,Pennsylvania,1,0,0,0
+2020-03-19,Luzerne,Pennsylvania,1,0,0,0
+2020-03-20,Luzerne,Pennsylvania,2,0,1,0
+2020-03-21,Luzerne,Pennsylvania,6,0,4,0
+2020-03-22,Luzerne,Pennsylvania,7,0,1,0
+2020-03-23,Luzerne,Pennsylvania,10,0,3,0
+2020-03-24,Luzerne,Pennsylvania,21,0,11,0
+2020-03-25,Luzerne,Pennsylvania,27,1,6,1
+2020-03-26,Luzerne,Pennsylvania,36,1,9,0
+2020-03-27,Luzerne,Pennsylvania,55,2,19,1
+2020-03-28,Luzerne,Pennsylvania,65,2,10,0
+2020-03-29,Luzerne,Pennsylvania,94,2,29,0
+2020-03-30,Luzerne,Pennsylvania,150,3,56,1
+2020-03-31,Luzerne,Pennsylvania,212,4,62,1
+2020-04-01,Luzerne,Pennsylvania,282,4,70,0
+2020-04-02,Luzerne,Pennsylvania,384,5,102,1
+2020-04-03,Luzerne,Pennsylvania,484,5,100,0

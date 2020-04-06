@@ -1,0 +1,24 @@
+date,county,state,confirmed cases,deaths,new cases per day,new deaths per day
+2020-03-12,Dutchess,New York,1,0,0,0
+2020-03-13,Dutchess,New York,3,0,2,0
+2020-03-14,Dutchess,New York,4,0,1,0
+2020-03-15,Dutchess,New York,7,0,3,0
+2020-03-16,Dutchess,New York,10,0,3,0
+2020-03-17,Dutchess,New York,16,0,6,0
+2020-03-18,Dutchess,New York,20,0,4,0
+2020-03-19,Dutchess,New York,31,0,11,0
+2020-03-20,Dutchess,New York,36,0,5,0
+2020-03-21,Dutchess,New York,49,0,13,0
+2020-03-22,Dutchess,New York,82,0,33,0
+2020-03-23,Dutchess,New York,100,0,18,0
+2020-03-24,Dutchess,New York,124,0,24,0
+2020-03-25,Dutchess,New York,153,0,29,0
+2020-03-26,Dutchess,New York,190,2,37,2
+2020-03-27,Dutchess,New York,225,2,35,0
+2020-03-28,Dutchess,New York,262,2,37,0
+2020-03-29,Dutchess,New York,320,2,58,0
+2020-03-30,Dutchess,New York,392,3,72,1
+2020-03-31,Dutchess,New York,484,4,92,1
+2020-04-01,Dutchess,New York,547,5,63,1
+2020-04-02,Dutchess,New York,667,9,120,4
+2020-04-03,Dutchess,New York,809,9,142,0

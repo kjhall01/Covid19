@@ -1,0 +1,26 @@
+date,county,state,confirmed cases,deaths,new cases per day,new deaths per day
+2020-03-10,Burlington,New Jersey,2,0,0,0
+2020-03-11,Burlington,New Jersey,2,0,0,0
+2020-03-12,Burlington,New Jersey,2,0,0,0
+2020-03-13,Burlington,New Jersey,3,0,1,0
+2020-03-14,Burlington,New Jersey,3,0,0,0
+2020-03-15,Burlington,New Jersey,4,0,1,0
+2020-03-16,Burlington,New Jersey,5,0,1,0
+2020-03-17,Burlington,New Jersey,5,0,0,0
+2020-03-18,Burlington,New Jersey,10,0,5,0
+2020-03-19,Burlington,New Jersey,14,0,4,0
+2020-03-20,Burlington,New Jersey,17,0,3,0
+2020-03-21,Burlington,New Jersey,20,0,3,0
+2020-03-22,Burlington,New Jersey,26,0,6,0
+2020-03-23,Burlington,New Jersey,36,0,10,0
+2020-03-24,Burlington,New Jersey,42,0,6,0
+2020-03-25,Burlington,New Jersey,48,1,6,1
+2020-03-26,Burlington,New Jersey,64,3,16,2
+2020-03-27,Burlington,New Jersey,88,3,24,0
+2020-03-28,Burlington,New Jersey,115,3,27,0
+2020-03-29,Burlington,New Jersey,142,3,27,0
+2020-03-30,Burlington,New Jersey,178,5,36,2
+2020-03-31,Burlington,New Jersey,202,5,24,0
+2020-04-01,Burlington,New Jersey,255,5,53,0
+2020-04-02,Burlington,New Jersey,294,8,39,3
+2020-04-03,Burlington,New Jersey,367,9,73,1

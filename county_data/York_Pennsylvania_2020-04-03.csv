@@ -1,0 +1,18 @@
+date,county,state,confirmed cases,deaths,new cases per day,new deaths per day
+2020-03-18,York,Pennsylvania,2,0,0,0
+2020-03-19,York,Pennsylvania,2,0,0,0
+2020-03-20,York,Pennsylvania,6,0,4,0
+2020-03-21,York,Pennsylvania,9,0,3,0
+2020-03-22,York,Pennsylvania,10,0,1,0
+2020-03-23,York,Pennsylvania,10,0,0,0
+2020-03-24,York,Pennsylvania,18,0,8,0
+2020-03-25,York,Pennsylvania,20,0,2,0
+2020-03-26,York,Pennsylvania,21,0,1,0
+2020-03-27,York,Pennsylvania,29,0,8,0
+2020-03-28,York,Pennsylvania,37,0,8,0
+2020-03-29,York,Pennsylvania,43,0,6,0
+2020-03-30,York,Pennsylvania,54,0,11,0
+2020-03-31,York,Pennsylvania,66,0,12,0
+2020-04-01,York,Pennsylvania,66,0,0,0
+2020-04-02,York,Pennsylvania,102,1,36,1
+2020-04-03,York,Pennsylvania,102,1,0,0

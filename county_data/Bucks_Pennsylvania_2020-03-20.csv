@@ -1,0 +1,25 @@
+date,county,state,confirmed cases,deaths,new cases per day,new deaths per day
+2020-03-11,Bucks,Pennsylvania,2,0,0,0
+2020-03-12,Bucks,Pennsylvania,2,0,0,0
+2020-03-13,Bucks,Pennsylvania,3,0,1,0
+2020-03-14,Bucks,Pennsylvania,4,0,1,0
+2020-03-15,Bucks,Pennsylvania,4,0,0,0
+2020-03-16,Bucks,Pennsylvania,7,0,3,0
+2020-03-17,Bucks,Pennsylvania,9,0,2,0
+2020-03-18,Bucks,Pennsylvania,10,0,1,0
+2020-03-19,Bucks,Pennsylvania,10,0,0,0
+2020-03-20,Bucks,Pennsylvania,14,0,4,0
+2020-03-21,Bucks,Pennsylvania,32,0,18,0
+2020-03-22,Bucks,Pennsylvania,34,0,2,0
+2020-03-23,Bucks,Pennsylvania,43,0,9,0
+2020-03-24,Bucks,Pennsylvania,65,0,22,0
+2020-03-25,Bucks,Pennsylvania,110,0,45,0
+2020-03-26,Bucks,Pennsylvania,110,0,0,0
+2020-03-27,Bucks,Pennsylvania,124,0,14,0
+2020-03-28,Bucks,Pennsylvania,216,1,92,1
+2020-03-29,Bucks,Pennsylvania,249,3,33,2
+2020-03-30,Bucks,Pennsylvania,249,3,0,0
+2020-03-31,Bucks,Pennsylvania,319,6,70,3
+2020-04-01,Bucks,Pennsylvania,319,6,0,0
+2020-04-02,Bucks,Pennsylvania,370,6,51,0
+2020-04-03,Bucks,Pennsylvania,446,8,76,2

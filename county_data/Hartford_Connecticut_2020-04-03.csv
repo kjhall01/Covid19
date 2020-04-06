@@ -1,0 +1,22 @@
+date,county,state,confirmed cases,deaths,new cases per day,new deaths per day
+2020-03-14,Hartford,Connecticut,1,0,0,0
+2020-03-15,Hartford,Connecticut,3,0,2,0
+2020-03-16,Hartford,Connecticut,4,0,1,0
+2020-03-17,Hartford,Connecticut,7,0,3,0
+2020-03-18,Hartford,Connecticut,11,0,4,0
+2020-03-19,Hartford,Connecticut,18,0,7,0
+2020-03-20,Hartford,Connecticut,29,0,11,0
+2020-03-21,Hartford,Connecticut,35,0,6,0
+2020-03-22,Hartford,Connecticut,54,1,19,1
+2020-03-23,Hartford,Connecticut,61,2,7,1
+2020-03-24,Hartford,Connecticut,88,2,27,0
+2020-03-25,Hartford,Connecticut,116,2,28,0
+2020-03-26,Hartford,Connecticut,138,2,22,0
+2020-03-27,Hartford,Connecticut,189,2,51,0
+2020-03-28,Hartford,Connecticut,228,2,39,0
+2020-03-29,Hartford,Connecticut,276,2,48,0
+2020-03-30,Hartford,Connecticut,330,3,54,1
+2020-03-31,Hartford,Connecticut,393,7,63,4
+2020-04-01,Hartford,Connecticut,469,11,76,4
+2020-04-02,Hartford,Connecticut,539,13,70,2
+2020-04-03,Hartford,Connecticut,679,18,140,5

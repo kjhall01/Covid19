@@ -1,0 +1,22 @@
+date,county,state,confirmed cases,deaths,new cases per day,new deaths per day
+2020-03-14,Mercer,New Jersey,1,0,0,0
+2020-03-15,Mercer,New Jersey,1,0,0,0
+2020-03-16,Mercer,New Jersey,6,0,5,0
+2020-03-17,Mercer,New Jersey,9,0,3,0
+2020-03-18,Mercer,New Jersey,15,0,6,0
+2020-03-19,Mercer,New Jersey,20,0,5,0
+2020-03-20,Mercer,New Jersey,22,0,2,0
+2020-03-21,Mercer,New Jersey,30,0,8,0
+2020-03-22,Mercer,New Jersey,40,0,10,0
+2020-03-23,Mercer,New Jersey,50,0,10,0
+2020-03-24,Mercer,New Jersey,58,0,8,0
+2020-03-25,Mercer,New Jersey,82,0,24,0
+2020-03-26,Mercer,New Jersey,111,0,29,0
+2020-03-27,Mercer,New Jersey,131,0,20,0
+2020-03-28,Mercer,New Jersey,168,0,37,0
+2020-03-29,Mercer,New Jersey,202,0,34,0
+2020-03-30,Mercer,New Jersey,249,0,47,0
+2020-03-31,Mercer,New Jersey,268,1,19,1
+2020-04-01,Mercer,New Jersey,333,3,65,2
+2020-04-02,Mercer,New Jersey,386,4,53,1
+2020-04-03,Mercer,New Jersey,484,5,98,1
