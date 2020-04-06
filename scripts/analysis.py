@@ -222,9 +222,8 @@ def downscale_images(filenames):
     for filename in filenames:
         print(filename)
         im = io.imread(filename)
-        print(im.shape)
         #https://stackoverflow.com/questions/44257947/skimage-weird-results-of-resize-function
-        im = transform.rescale(im, 0.0625, multichannel=True)
+        im = transform.rescale(im, 0.25, multichannel=True)
         im = 255 * im
         im = im.astype(np.uint8)
         io.imsave('../output/{}_fixed_downscaled.png'.format(filename), im)
