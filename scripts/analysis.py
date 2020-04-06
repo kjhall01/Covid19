@@ -78,7 +78,7 @@ def get_county(county_name, state_name, today):
         np.savetxt('../county_data/{}_{}_{}.csv'.format(county_name, state_name, today), union_nj2, delimiter=',', fmt='%s')
         return union_nj
 
-def main():
+def main(today):
     #set parameters
     #nla, sla, wlo, elo = 45, 37, -79, -71 #broad view
     nla, sla, wlo, elo = 42.3, 39.5, -76, -73.3 #tristate
@@ -108,9 +108,13 @@ def main():
                 if dist <= cur_dist:
                     cur_dist = dist
                     county_grid[i,j] = '{},{}'.format(df_n[k,2], df_n[k,5])
-    days = np.genfromtxt('../county_data/Berkshire_Massachusetts_2020-04-03.csv', delimiter=',', skip_header=1, dtype=str)
+    days = np.genfromtxt('../county_data/dates.csv', delimiter=',', skip_header=0, dtype=str)
+    days = days.reshape(-1,1)
+    it = 1
+    while days[i,0] != today:
+        it += 1
     titles = ['Confirmed Cases', 'Daily New Cases', 'Deaths', 'Daily New Deaths']
-    for g in range(days.shape[0]):
+    for g in range(it):
         dayo = days[g,0]
         print(dayo)
         fig, ax = plt.subplots(nrows=2, ncols=2, figsize=(20,20), subplot_kw={'projection': ccrs.PlateCarree()})
@@ -204,10 +208,15 @@ def main():
     print('done')
 
 
-def display():
-    days = np.genfromtxt('../county_data/Berkshire_Massachusetts_2020-04-03.csv', delimiter=',', skip_header=1, dtype=str)
+def display(today):
+    #today = string YYYY-MM-DD
+    days = np.genfromtxt('../county_data/dates.csv', delimiter=',', skip_header=0, dtype=str)
+    days = days.reshape(-1,1)
+    j = 0
+    while days[i,0] != today:
+        j += 1
     imgs = []
-    for i in range(days.shape[0]):
+    for i in range(j):
         day = days[i,0]
         img = mpimg.imread('../output/{}_fixed.png'.format(day))
         imgs.append(img)
@@ -232,15 +241,19 @@ def downscale_images(filenames):
     return images
 
 
-def save_gif():
-    days = np.genfromtxt('../county_data/Berkshire_Massachusetts_2020-04-03.csv', delimiter=',', skip_header=1, dtype=str)
-    filenames = ['../output/{}_fixed.png'.format(days[i, 0]) for i in range(days.shape[0])  ]
-    #for filename in filenames:
-        #images.append(imageio.imread(filename))
+def save_gif(today):
+    #today = string YYYY-MM-DD
+    days = np.genfromtxt('../county_data/dates.csv', delimiter=',', skip_header=0, dtype=str)
+    days = days.reshape(-1,1)
+    i = 0
+    while days[i,0] != today:
+        i += 1
+    filenames = ['../output/{}_fixed.png'.format(days[j, 0]) for j in range(i)  ]
     images = downscale_images(filenames)
     imageio.mimsave('../output/covid_spread.gif', images)
     optimize('../output/covid_spread.gif')
 
 
 if __name__ == "__main__":
-    save_gif()
+    #save_gif()
+    #main()
